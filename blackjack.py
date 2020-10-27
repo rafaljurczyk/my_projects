@@ -1,7 +1,9 @@
 #game of blackjack
-#SO YES, I DIDN'T SEPARATE THESE CLASSES INTO INDIVIDUAL FILES BUT!
-#I just was writing this stuff on my holidays and didn't really care back then
-#and well it's short program so I didn't really bother to update it because of how little classes it have
+#================================================================================================================
+#=SO YES, I DIDN'T SEPARATE THESE CLASSES INTO INDIVIDUAL FILES BUT!						=
+#=I just was writing this stuff on my holidays and didn't really care back then					=
+#=and well it's short program so I didn't really bother to update it because of how little classes it have	=
+#================================================================================================================
 import random
 import os
 
